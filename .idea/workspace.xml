@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98144085-6d73-4cfb-b64c-857a5cac6942" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/features/2check_login_functionality.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CSAT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stockbit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/1check_user_have_addons.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/1check_register_functionality.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/2check_message_and_survey_settings.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/3check_message_survey_chatbot.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/4check_message_survey_greeting.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/5check_message_survey_survey.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/6check_message_survey_closing.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/7check_feedback_settings.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/8check_interface_settings.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/9check_web_redirection.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/interface_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/message_and_survey.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/user_have_addons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/web_redirection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/1.file_example_GIF_3500kB.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/2.file_example_JPG_1MB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/3.file_example_JPG_2500kB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/5352DC.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/05830ba1-b6a8-404c-ba9f-367394f6b1bc-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0656e439-17f3-4baf-beae-db4b16042696-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1507afec-7a39-45bd-9027-1bccf304f89a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1e97ca82-31eb-4718-988a-9fb624b136df-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/221a8102-8419-4c8a-b4ea-b7a36cac2642-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/26d8e81f-72f6-4bd1-9dd4-06d66dc1d14c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/33735f4f-2646-4267-a201-73b3288906b3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3e6db1d7-1a43-4e07-8e90-eb8addc97235-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3fe77256-b056-479b-b398-921a44bd4ed1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/409427c4-b268-457e-8322-ffb42b53d460-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/42ae940c-12bf-4b9c-8df5-303b5b084804-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/44876900-2e11-4028-9b02-174d80ec09e5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/45f0a278-04dd-48df-97ca-c11fe7d40c0d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4db07f13-7e6d-445c-a32c-432201a42e80-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/501f069d-a50b-46ae-b685-7dd1a4e93361-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5b734490-8d29-459e-8090-3eb10b15914d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/61be5a00-82a9-45cd-b44d-9de096c08ba5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/64245a32-b5d7-4a49-bfab-1a90585921eb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/66a61b7c-9596-4255-88bc-f97141f0572a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/66de7ff3-41a0-4ffb-99ec-6dc8c426ca19-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/6ae2c626-ecd2-4186-bd48-d9f0e8a5b7df-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/70f2e92a-854a-43cf-be94-e2e879046ff3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8083a976-09dd-404a-91a7-aca702eee215-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8f855e47-fe66-407f-a402-0f4afb04385c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/93d69ba0-a1f4-48ad-b1ab-8b9f7dae53a4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/9565eef8-5436-4f40-b8c2-f2069cb0f5c7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/9b35852a-6c7f-452d-9ed7-0a9253b73f02-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a69df513-0d1d-450e-b113-1eed688a2e7f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ba6511e2-454d-43d2-9553-5bd896a9e27e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c5ac8334-ff56-4128-9dcc-82042c80d63e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c5ccf60d-c159-47e5-a25f-f33a13a412d7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c67400d0-1bdc-4d6c-9a14-76a69e25b741-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c978e702-324c-4add-ae30-7993214c58fb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d3d2b10e-813d-453e-9162-e450b055ff55-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d939f686-bb90-413d-85a4-aabd2ab9437f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e22400dc-ad21-4db7-bc98-1e7f69a58104-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f0d6428d-f13e-40f0-97e6-c8e3de514425-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f0f31cbb-cf10-44c7-88cd-23badcc5846c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f86b4dbf-a96a-4a07-976c-e7ceaddd53a4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fa7cada4-4df9-4c88-b957-82805d709ddc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fc45e4a1-6d16-4402-8372-2ac36afafb98-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_source/Csat.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_source/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_source/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_source/web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_source/web_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_source/web_factory.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26UiFB2c6zXIf8VPMjW7jnkLkZK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/Auto/multichannel-behave" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Auto\Automation\Webhook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.werwerw">
+    <configuration name="asdaffsdgsdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stockbit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/asdaffsdgsdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asdasas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stockbit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/asdasas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dgdfgdfgd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stockbit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/dgdfgdfgd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stockbit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="werwerw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stockbit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/werwerw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.werwerw" />
+        <item itemvalue="Python.asdasas" />
+        <item itemvalue="Python.asdaffsdgsdf" />
+        <item itemvalue="Python.dgdfgdfgd" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98144085-6d73-4cfb-b64c-857a5cac6942" name="Changes" comment="" />
+      <created>1647484461992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647484461992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
